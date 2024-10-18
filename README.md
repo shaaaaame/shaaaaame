@@ -1,4 +1,4 @@
-# 🥺 Hi! I'm Han:
+# 🤗 Hi! I'm Han:
 
 📕 Computer Science @ University of Toronto <br />
 💻 Fullstack Developer @ ThinkCol <br />
