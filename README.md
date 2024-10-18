@@ -1,5 +1,5 @@
 # 🥺 Hi! I'm Han:
-Software Engineer and Full-Time Cat
+Software Engineer and Full-Time Cat <br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanxheng) 
 
 # 💻 Tech Stack
