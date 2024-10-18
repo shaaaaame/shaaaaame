@@ -9,3 +9,9 @@
 &nbsp;
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaaaaame&theme=dark&hide_border=false)<br/>
+
+![image](https://img.icons8.com/?size=32&id=upd5xh7hPe0R&format=png&color=000000)
+![image](https://img.icons8.com/?size=32&id=upd5xh7hPe0R&format=png&color=000000)
+![image](https://img.icons8.com/?size=32&id=upd5xh7hPe0R&format=png&color=000000)
+![image](https://img.icons8.com/?size=32&id=upd5xh7hPe0R&format=png&color=000000)
+![image](https://img.icons8.com/?size=32&id=upd5xh7hPe0R&format=png&color=000000)
