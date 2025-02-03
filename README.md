@@ -1,7 +1,7 @@
 # ![image](https://img.icons8.com/?size=32&id=QyZp4Pat02yK&format=png&color=000000) Hi! I'm Han.
 
 📕 Computer Science @ University of Toronto <br />
-💻 Fullstack Developer @ ThinkCol <br />
+💻 SWE @ Process Fusion <br />
 🏐 Volleyball Addict <br />
 <br />
 [![image](https://img.icons8.com/?size=32&id=13930&format=png&color=000000)](https://www.linkedin.com/hanxheng)
